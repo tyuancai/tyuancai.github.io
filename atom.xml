@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://yoursite.com</id>
     <title>Hexo</title>
-    <subtitle>subtitle</subtitle>
+    <subtitle>追风赶月莫停留，平芜尽处是春山</subtitle>
     <icon>http://yoursite.com/images/favicon.ico</icon>
     <link href="http://yoursite.com" />
     <author>
-      <name>John Doe</name>
+      <name>tyuancai</name>
     </author>
     <updated>2020-08-13T13:45:48.000Z</updated>
     <category term="关键词1" />

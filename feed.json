@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Hexo",
-    "subtitle": "subtitle",
+    "subtitle": "追风赶月莫停留，平芜尽处是春山",
     "icon": "http://yoursite.com/images/favicon.ico",
-    "description": "描述123",
+    "description": "小唐菜狗的日常博客",
     "home_page_url": "http://yoursite.com",
     "items": [
         {
