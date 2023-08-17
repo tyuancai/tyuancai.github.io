@@ -7,6 +7,16 @@
     "home_page_url": "http://yoursite.com",
     "items": [
         {
+            "id": "http://yoursite.com/computer-science/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8A%A0%E5%AF%86%E4%BF%9D%E6%8A%A4%E6%97%A5%E8%AE%B0%E6%B5%8B%E8%AF%95/",
+            "url": "http://yoursite.com/computer-science/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8A%A0%E5%AF%86%E4%BF%9D%E6%8A%A4%E6%97%A5%E8%AE%B0%E6%B5%8B%E8%AF%95/",
+            "title": "这是一个加密保护日记测试",
+            "date_published": "2023-08-17T13:47:19.227Z",
+            "content_html": "<div class=\"note info\">\n<p>因博主被学业和工作掏空，本项目已停滞更新大半年，问题也无法及时回复大家，这个悲惨状态可能还要持续半年的样子。</p>\n<p>有很多热心小伙伴在评论区或者项目 issue 帮忙回答问题，非常非常感谢！</p>\n<p>本项目是完全开源的，也有做一些 example 示例，大家可以随便拿随便改。<br />\n但是很抱歉，博主我暂时不能提供更多的支持，这个写的乱七八糟的文档，暂时也没有时间把它写得更专业一些。<br />\n非常对不住大家！</p>\n</div>\n",
+            "tags": [
+                "diary"
+            ]
+        },
+        {
             "id": "http://yoursite.com/computer-science/note/theme-shoka-doc/special/",
             "url": "http://yoursite.com/computer-science/note/theme-shoka-doc/special/",
             "title": "Step.4 主题特殊功能",
@@ -198,18 +208,6 @@
             "date_published": "2013-12-24T15:31:06.000Z",
             "content_html": "<p>This post has a long title. Make sure the title displayed right.</p>\n",
             "tags": []
-        },
-        {
-            "id": "http://yoursite.com/categories/",
-            "url": "http://yoursite.com/categories/",
-            "title": "Categories",
-            "date_published": "2013-12-24T15:30:09.000Z",
-            "content_html": "<p>This post contains 3 categories. Make sure your theme can display all of the categories.</p>\n",
-            "tags": [
-                "Foo",
-                "Bar",
-                "Baz"
-            ]
         }
     ]
 }

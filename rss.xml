@@ -10,10 +10,25 @@
         </author>
         <description>小唐菜狗的日常博客</description>
         <language>zh-CN</language>
-        <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
-        <lastBuildDate>Thu, 13 Aug 2020 21:45:48 +0800</lastBuildDate>
+        <pubDate>Thu, 17 Aug 2023 21:47:19 +0800</pubDate>
+        <lastBuildDate>Thu, 17 Aug 2023 21:47:19 +0800</lastBuildDate>
         <category term="关键词1" />
         <category term="关键词2" />
+        <item>
+            <guid isPermalink="true">http://yoursite.com/computer-science/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8A%A0%E5%AF%86%E4%BF%9D%E6%8A%A4%E6%97%A5%E8%AE%B0%E6%B5%8B%E8%AF%95/</guid>
+            <title>这是一个加密保护日记测试</title>
+            <link>http://yoursite.com/computer-science/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8A%A0%E5%AF%86%E4%BF%9D%E6%8A%A4%E6%97%A5%E8%AE%B0%E6%B5%8B%E8%AF%95/</link>
+            <category term="diary" scheme="http://yoursite.com/tags/diary/" />
+            <pubDate>Thu, 17 Aug 2023 21:47:19 +0800</pubDate>
+            <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;因博主被学业和工作掏空，本项目已停滞更新大半年，问题也无法及时回复大家，这个悲惨状态可能还要持续半年的样子。&lt;/p&gt;
+&lt;p&gt;有很多热心小伙伴在评论区或者项目 issue 帮忙回答问题，非常非常感谢！&lt;/p&gt;
+&lt;p&gt;本项目是完全开源的，也有做一些 example 示例，大家可以随便拿随便改。&lt;br /&gt;
+但是很抱歉，博主我暂时不能提供更多的支持，这个写的乱七八糟的文档，暂时也没有时间把它写得更专业一些。&lt;br /&gt;
+非常对不住大家！&lt;/p&gt;
+&lt;/div&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://yoursite.com/computer-science/note/theme-shoka-doc/special/</guid>
             <title>Step.4 主题特殊功能</title>
@@ -1870,17 +1885,6 @@ http.createServer((req, res) &amp;#x3D;&amp;gt; {
             <link>http://yoursite.com/long-title/</link>
             <pubDate>Tue, 24 Dec 2013 23:31:06 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This post has a long title. Make sure the title displayed right.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://yoursite.com/categories/</guid>
-            <title>Categories</title>
-            <link>http://yoursite.com/categories/</link>
-            <category term="Foo" scheme="http://yoursite.com/categories/Foo/" />
-            <category term="Bar" scheme="http://yoursite.com/categories/Foo/Bar/" />
-            <category term="Baz" scheme="http://yoursite.com/categories/Foo/Bar/Baz/" />
-            <pubDate>Tue, 24 Dec 2013 23:30:09 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post contains 3 categories. Make sure your theme can display all of the categories.&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

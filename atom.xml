@@ -8,9 +8,24 @@
     <author>
       <name>tyuancai</name>
     </author>
-    <updated>2020-08-13T13:45:48.000Z</updated>
+    <updated>2023-08-17T13:47:19.227Z</updated>
     <category term="关键词1" />
     <category term="关键词2" />
+    <entry>
+        <id>http://yoursite.com/computer-science/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8A%A0%E5%AF%86%E4%BF%9D%E6%8A%A4%E6%97%A5%E8%AE%B0%E6%B5%8B%E8%AF%95/</id>
+        <title>这是一个加密保护日记测试</title>
+        <link rel="alternate" href="http://yoursite.com/computer-science/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8A%A0%E5%AF%86%E4%BF%9D%E6%8A%A4%E6%97%A5%E8%AE%B0%E6%B5%8B%E8%AF%95/"/>
+        <content type="html">&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;因博主被学业和工作掏空，本项目已停滞更新大半年，问题也无法及时回复大家，这个悲惨状态可能还要持续半年的样子。&lt;/p&gt;
+&lt;p&gt;有很多热心小伙伴在评论区或者项目 issue 帮忙回答问题，非常非常感谢！&lt;/p&gt;
+&lt;p&gt;本项目是完全开源的，也有做一些 example 示例，大家可以随便拿随便改。&lt;br /&gt;
+但是很抱歉，博主我暂时不能提供更多的支持，这个写的乱七八糟的文档，暂时也没有时间把它写得更专业一些。&lt;br /&gt;
+非常对不住大家！&lt;/p&gt;
+&lt;/div&gt;
+</content>
+        <category term="diary" scheme="http://yoursite.com/tags/diary/" />
+        <updated>2023-08-17T13:47:19.227Z</updated>
+    </entry>
     <entry>
         <id>http://yoursite.com/computer-science/note/theme-shoka-doc/special/</id>
         <title>Step.4 主题特殊功能</title>
@@ -1868,16 +1883,5 @@ http.createServer((req, res) &amp;#x3D;&amp;gt; {
         <content type="html">&lt;p&gt;This post has a long title. Make sure the title displayed right.&lt;/p&gt;
 </content>
         <updated>2013-12-24T15:31:06.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://yoursite.com/categories/</id>
-        <title>Categories</title>
-        <link rel="alternate" href="http://yoursite.com/categories/"/>
-        <content type="html">&lt;p&gt;This post contains 3 categories. Make sure your theme can display all of the categories.&lt;/p&gt;
-</content>
-        <category term="Foo" scheme="http://yoursite.com/categories/Foo/" />
-        <category term="Bar" scheme="http://yoursite.com/categories/Foo/Bar/" />
-        <category term="Baz" scheme="http://yoursite.com/categories/Foo/Bar/Baz/" />
-        <updated>2013-12-24T15:30:09.000Z</updated>
     </entry>
 </feed>
